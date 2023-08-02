@@ -11,7 +11,7 @@ margin-right: 10px;
 function Logo(){
   return(
     <LogoContainer><LogoImg src={logo}alt='logo'></LogoImg>
-      <p><strong>Alura</strong>Books</p>
+      <p><strong>Studio</strong>Books</p>
     </LogoContainer>
   )
 }

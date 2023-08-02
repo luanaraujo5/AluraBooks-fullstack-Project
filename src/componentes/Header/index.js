@@ -4,10 +4,10 @@ import IconesHeader from '../IconesHeader'
 import styled from  'styled-components'
 
 const HeaderContainer = styled.header`
-  background-color: #fff;
+  background-color: #ebf2f2;
   display: flex;
   justify-content: center;
-  box-shadow: 0 0 1em black;
+  box-shadow: linear-gradient(white, #f0f0f0);
 `
 function header(){
   return(
